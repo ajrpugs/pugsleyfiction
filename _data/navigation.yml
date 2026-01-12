@@ -1,0 +1,8 @@
+- name: Home
+  link: /
+- name: About
+  link: /about.html
+- name: Stories
+  link: /blog.html
+- name: Interactive fiction
+  link: /intfic.html
