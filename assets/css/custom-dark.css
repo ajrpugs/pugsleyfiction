@@ -82,4 +82,13 @@ h1, h2, h3, h4, h5, h6 {
   font-weight: 500; /* or 700 for bold */
 }
 
+/* Force all page/post titles to light */
+.post .page-title,
+.post h1,
+.post h2,
+.page h1,
+.page h2 {
+  color: #ffffff !important;
+}
+
 
