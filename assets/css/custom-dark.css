@@ -52,3 +52,13 @@ code {
 hr {
   border-color: #444444;
 }
+
+/* Force all headings to light color */
+body h1,
+body h2,
+body h3,
+body h4,
+body h5,
+body h6 {
+  color: #ffffff !important;
+}
