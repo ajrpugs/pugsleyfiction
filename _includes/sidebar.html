@@ -22,20 +22,7 @@
           <a class="sidebar-nav-item{% if page.url | relative_url == node.url | relative_url %} active{% endif %}" href="{{ node.url | relative_url }}">{{ node.title }}</a>
         {% endif %}
       {% endfor %}
-
-      <!-- Optional GitHub links -->
-      {% if site.github.repository_url %}
-        <a class="sidebar-nav-item" href="{{ site.github.repository_url }}/archive/v{{ site.version }}.zip">Download</a>
-        <a class="sidebar-nav-item" href="{{ site.github.repository_url }}">GitHub project</a>
-      {% endif %}
-
-      <!-- Version info -->
-      {% if site.version %}
-        <span class="sidebar-nav-item">Currently v{{ site.version }}</span>
-      {% endif %}
     </nav>
-
-    <!-- Footer -->
-    <p>&copy; {{ site.time | date: "%Y" }}. All rights reserved.</p>
+    
   </div>
 </div>
