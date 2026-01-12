@@ -1,0 +1,54 @@
+/* Base background and text */
+body {
+  background-color: #1e1e1e;   /* dark background */
+  color: #e0e0e0;              /* light text */
+}
+
+/* Sidebar */
+.sidebar {
+  background-color: #121212;   /* darker sidebar */
+  color: #ffffff;
+}
+
+.sidebar a.sidebar-nav-item {
+  color: #bbbbbb;              /* nav links default */
+}
+
+.sidebar a.sidebar-nav-item:hover,
+.sidebar a.sidebar-nav-item.active {
+  color: #ffffff;              /* hover & active */
+}
+
+/* Content column */
+.main {
+  background-color: #1e1e1e;
+  color: #e0e0e0;
+}
+
+/* Headers */
+h1, h2, h3, h4, h5, h6 {
+  color: #ffffff;
+}
+
+/* Links in posts/content */
+a {
+  color: #82aaff;
+}
+
+/* Footer */
+.sidebar p,
+.sidebar span {
+  color: #888888;
+}
+
+/* Optional: code blocks */
+pre,
+code {
+  background-color: #2e2e2e;
+  color: #f5f5f5;
+}
+
+/* Horizontal rules */
+hr {
+  border-color: #444444;
+}
