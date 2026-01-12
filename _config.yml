@@ -1,4 +1,3 @@
-theme: minimal
 plugins:
   - jekyll-feed
   - jekyll-sitemap
