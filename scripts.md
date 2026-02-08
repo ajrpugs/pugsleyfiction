@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title: Scripts
 ---
 
 Check back soon for more.

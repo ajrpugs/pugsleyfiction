@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title: Prose
 ---
 
 Check back soon for more.
