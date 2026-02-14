@@ -1,6 +1,7 @@
 ---
-layout: default
+layout: two-column
 title: Home
+headshot: "/assets/headshot.png"
 ---
 
 # Hey, I'm Adam.
