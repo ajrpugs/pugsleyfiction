@@ -6,18 +6,18 @@ title: Home
 <div class="landing-two-column">
 
   <div class="landing-left">
-    <img src="/assets/images/headshot.jpg" alt="Headshot">
+    <img src="/assets/images/headshot.png" alt="Headshot">
   </div>
 
   <div class="landing-right">
 
-# Hey, I'm Adam.
+<h1>Hey, I'm Adam.</h1>
 
-This is my creative writing porfolio. Here you'll find a selection of short stories, game writing, design docs, and scripts.
+<p>This is my creative writing porfolio. Here you'll find a selection of short stories, game writing, design docs, and scripts.</p>
 
-## Want to work together?
+<h2>Want to work together?</h2>
 
-Reach out via <a title="email" href="mailto:ajrpugs@gmail.com" class="icon-link">email</a>.
+<p>Reach out via <a title="email" href="mailto:ajrpugs@gmail.com" class="icon-link">email</a>.</p>
 
   </div>
 </div>
