@@ -102,3 +102,27 @@ h1, h2, h3, h4, h5, h6 {
   font-weight: 500;
 }
 
+.landing-two-column {
+  display: grid;
+  grid-template-columns: 200px 1fr;
+  gap: 2rem;
+  align-items: start;
+}
+
+.landing-left img {
+  width: 100%;
+  max-width: 200px;
+  border-radius: 50%;
+  display: block;
+}
+
+@media (max-width: 768px) {
+  .landing-two-column {
+    grid-template-columns: 1fr;
+  }
+
+  .landing-left {
+    text-align: center;
+    margin-bottom: 1.5rem;
+  }
+}
