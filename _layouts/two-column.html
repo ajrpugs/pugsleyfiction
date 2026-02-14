@@ -44,10 +44,15 @@
     }
   </style>
 
+  {% include head.html %}
+
 </head>
+
 <body>
 
-  <div class="container">
+  {% include sidebar.html %}
+
+  <div class=" content container">
     <div class="left">
       {% if page.headshot %}
         <img src="{{ page.headshot }}" alt="Headshot">
