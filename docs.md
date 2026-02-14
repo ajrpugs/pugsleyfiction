@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Design documents
+title: Design
 ---
 
 Check back soon for more.

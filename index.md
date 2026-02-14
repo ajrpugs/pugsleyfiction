@@ -5,6 +5,8 @@ title: Home
 
 # Hey, I'm Adam.
 
-Welcome to my creative writing porfolio.
+This is my creative writing porfolio. Here you'll find a selection of short stories, game writing, design docs, and scripts.
 
-Short stories, experiments, and drafts.
+## Want to work together?
+
+Reach out via <a title="email" href="mailto:ajrpugs@gmail.com" class="icon-link">email</a>.
