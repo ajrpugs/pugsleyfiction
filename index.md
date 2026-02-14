@@ -6,7 +6,7 @@ title: Home
 <div class="landing-two-column">
 
   <div class="landing-left">
-    <img src="/assets/images/headshot.png" alt="Headshot">
+    <img src="assets\headshot.png" alt="Headshot">
   </div>
 
   <div class="landing-right">
